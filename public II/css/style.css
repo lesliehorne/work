@@ -1,0 +1,120 @@
+style.css
+body{
+	background-color:#fff
+	color:#555
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:35px;
+	line-height:1.6em;
+	margin:0;
+  background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../images/new.jpg');
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#showcase{
+	background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../images/new.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center ;
+	height: 100vh;
+  min-height:500px;
+	margin-bottom:30px;
+	text-align: center;
+	font-color: red;
+}
+
+#container h1{
+	color: silver;
+	font-size:300px;
+	line-height:1.6em;
+	padding-top: 30px;
+	font-family: Mr Bedfort;
+}
+
+body {
+  background-color: #242f44;
+  color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 200px;
+  color: white;
+  font-style: : cursive;
+  font-family: Gravitas one;
+}
+
+h4 {
+  font-size: 16px;
+  padding: 15px;
+  text-transform: cursive ;
+  color: sienna;
+  
+}
+
+th {
+  border: 2px solid #8c6b48;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 2px solid #8c6b48;
+  width: 300px;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+
+.left {
+  width: 150px;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  text-transform: uppercase;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 500;
+  line-height: 2.7;
+  letter-spacing: 0.8px;
+  color: sienna;
+}
+
+.current {
+	background-color: firebrick;
+	border-radius: 4px;
+}
